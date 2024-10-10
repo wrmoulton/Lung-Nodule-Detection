@@ -1,7 +1,7 @@
 # Lung-Nodule-Detection
 
 
-Lung Nodule Detection
+
 This Jupyter notebook focuses on the detection of lung nodules using a machine learning approach, leveraging MONAI, an open-source library for medical AI. The project involves data preprocessing, feature extraction, model training, and evaluation, aimed at aiding early detection of lung conditions through advanced image analysis techniques.
 
 Contents
